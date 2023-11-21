@@ -1,4 +1,4 @@
-package br.atitus.poo.atitusound.entities;
+package br.edu.atitus.poo.atitusound.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
