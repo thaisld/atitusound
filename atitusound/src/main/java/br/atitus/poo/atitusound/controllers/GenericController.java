@@ -1,4 +1,4 @@
-package br.atitus.poo.atitusound.controllers;
+package br.edu.atitus.poo.atitusound.controllers;
 
 import java.util.List;
 import java.util.Optional;
