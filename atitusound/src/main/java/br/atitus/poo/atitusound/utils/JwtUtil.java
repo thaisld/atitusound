@@ -1,4 +1,4 @@
-package br.atitus.poo.atitusound.utils;
+package br.edu.atitus.poo.atitusound.utils;
 
 import java.security.Key;
 import java.util.Date;
