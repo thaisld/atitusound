@@ -1,4 +1,4 @@
-package br.atitus.poo.atitusound.dtos;
+package br.edu.atitus.poo.atitusound.dtos;
 
 public class ArtistDTO {
 	
