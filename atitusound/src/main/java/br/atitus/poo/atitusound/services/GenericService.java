@@ -1,4 +1,4 @@
-package br.atitus.poo.atitusound.services;
+package br.edu.atitus.poo.atitusound.services;
 
 import java.util.List;
 import java.util.Optional;
