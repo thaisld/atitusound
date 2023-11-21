@@ -1,4 +1,4 @@
-package br.atitus.poo.atitusound.entities;
+package br.edu.atitus.poo.atitusound.entities;
 
 import java.time.Duration;
 
