@@ -1,4 +1,4 @@
-package br.atitus.poo.atitusound.components;
+package br.edu.atitus.poo.atitusound.components;
 
 import java.io.IOException;
 
@@ -8,9 +8,9 @@ import org.springframework.security.web.authentication.WebAuthenticationDetailsS
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
 
-import br.atitus.atitusound.entities.UserEntity;
-import br.atitus.atitusound.services.UserService;
-import br.atitus.atitusound.utils.JwtUtils;
+import br.edu.atitus.atitusound.entities.UserEntity;
+import br.edu.atitus.atitusound.services.UserService;
+import br.edu.atitus.atitusound.utils.JwtUtils;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
