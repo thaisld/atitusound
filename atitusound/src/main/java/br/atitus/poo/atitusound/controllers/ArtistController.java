@@ -1,4 +1,4 @@
-package br.atitus.poo.atitusound.controllers;
+package br.edu.atitus.poo.atitusound.controllers;
 
 import java.util.List;
 import java.util.Optional;
@@ -20,10 +20,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.atitus.poo.atitusound.dtos.ArtistDTO;
-import br.atitus.poo.atitusound.entities.ArtistEntity;
-import br.atitus.poo.atitusound.services.ArtistService;
-import br.atitus.poo.atitusound.services.GenericService;
+import br.edu.atitus.poo.atitusound.dtos.ArtistDTO;
+import br.edu.atitus.poo.atitusound.entities.ArtistEntity;
+import br.edu.atitus.poo.atitusound.services.ArtistService;
+import br.edu.atitus.poo.atitusound.services.GenericService;
 
 @RestController
 @RequestMapping("/artists")
