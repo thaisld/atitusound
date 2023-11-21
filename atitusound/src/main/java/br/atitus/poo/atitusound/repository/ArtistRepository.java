@@ -1,4 +1,4 @@
-package br.atitus.poo.atitusound.repositories;
+package br.edu.atitus.poo.atitusound.repositories;
 
 import org.springframework.stereotype.Repository;
 
