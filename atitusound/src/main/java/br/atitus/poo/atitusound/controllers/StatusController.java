@@ -1,4 +1,4 @@
-package br.atitus.poo.atitusound.controllers;
+package br.edu.atitus.poo.atitusound.controllers;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
