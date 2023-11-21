@@ -1,13 +1,13 @@
-package br.atitus.poo.atitusound.controllers;
+package br.edu.atitus.poo.atitusound.controllers;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.atitus.poo.atitusound.dtos.MusicDTO;
-import br.atitus.poo.atitusound.entities.ArtistEntity;
-import br.atitus.poo.atitusound.entities.MusicEntity;
-import br.atitus.poo.atitusound.services.GenericService;
-import br.atitus.poo.atitusound.services.MusicService;
+import br.edu.atitus.poo.atitusound.dtos.MusicDTO;
+import br.edu.atitus.poo.atitusound.entities.ArtistEntity;
+import br.edu.atitus.poo.atitusound.entities.MusicEntity;
+import br.edu.atitus.poo.atitusound.services.GenericService;
+import br.edu.atitus.poo.atitusound.services.MusicService;
 
 @RestController
 @RequestMapping("/musics")
