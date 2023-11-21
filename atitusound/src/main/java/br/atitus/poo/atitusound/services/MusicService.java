@@ -1,6 +1,6 @@
-package br.atitus.poo.atitusound.services;
+package br.edu.atitus.poo.atitusound.services;
 
-import br.atitus.poo.atitusound.entities.MusicEntity;
+import br.edu.atitus.poo.atitusound.entities.MusicEntity;
 
 public interface MusicService extends GenericService<MusicEntity>{
 
